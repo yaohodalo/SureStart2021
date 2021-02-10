@@ -11,4 +11,4 @@ In today's learning, I was introduce to Machine Learning: what is it, why do we 
 #### 1. What is the difference between supervised and unsupervised learning?
 The difference is that supervised learning focuses on pre-defined set of training examples to be able to reach an acurrate conclusion when given a new data. It is mostly used in predictions. Unlike supervised learning, unsupervized learning focuses on finding patterns and correlations in a bunch of data sets. 
 #### 2. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
-This statement is false because Scikit-Learn was built on top of all those several data analysis libraries
+This statement is false because Scikit-Learn was built on top of all those several data analysis libraries.
